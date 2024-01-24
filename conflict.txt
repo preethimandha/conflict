@@ -1,3 +1,7 @@
+i am preethi
+#include<stdio.h>
+{
+    print("welcome" );
 i am preethi reddy mandha
 #include<stdio.h>
 {
